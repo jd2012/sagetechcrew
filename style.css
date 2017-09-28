@@ -26,4 +26,12 @@
     margin-right: 5px;
     background: white;
 }
+.container {
+    display: block;
+    text-align: center;
+    margin: auto;
+    left: 0;
+    right: 0;
+    z-index: 1;
+}
 
