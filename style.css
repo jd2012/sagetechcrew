@@ -34,4 +34,19 @@
     right: 0;
     z-index: 1;
 }
-
+.inlinecanvas {
+    padding-bottom: 15px;
+    text-align: center;
+    vertical-align: top;
+    background-color: #FFF;
+    display: inline-block;
+    width: 24%;
+    height: 24%;
+    border-radius: 5px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    margin-right: 5px;
+    -webkit-box-shadow: 5px 5px 10px 0px rgba(0,0,0,0.5);
+    -moz-box-shadow: 5px 5px 10px 0px rgba(0,0,0,0.5);
+    box-shadow: 5px 5px 10px 0px rgba(0,0,0,0.5);
+}
