@@ -1,4 +1,0 @@
-#CONTRIBUTIONS.md 
-
-
-*Coming soon*
