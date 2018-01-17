@@ -11,7 +11,7 @@ Please refer to the bylaws for conduct *(coming soon)*
 In memory of Marcus Montes
 
 
-#Current Senior Members
+## Current Senior Members
 
 - Joseph Kirven *jd2012*
   - Lighing Designer 2015-2018
@@ -40,7 +40,7 @@ In memory of Marcus Montes
 
 
 
-#Members
+## Members
 
 - Ian Hackett
   - Spots
