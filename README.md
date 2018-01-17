@@ -13,7 +13,7 @@ In memory of Marcus Montes
 
 #Current Senior Members
 
-- Joseph *jd2012*
+- Joseph Kirven *jd2012*
   - Lighing Designer 2015-2018
 
 - Nathan Waits
