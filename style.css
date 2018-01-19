@@ -32,6 +32,7 @@
     left: 0;
     right: 0;
     z-index: 1;
+    justify:right;
 }
 .inlinecanvas {
     padding-bottom: 15px;
