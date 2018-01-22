@@ -24,8 +24,8 @@ In memory of Marcus Montes
   - Spots
   - Shift
 
-- Aine Kern
-  - Assistant Stage Manager
+- Áine Kern
+  - Assistant Stage Manager 2014-2018
   - Shift
 
 - Allison Uribe
@@ -47,6 +47,8 @@ In memory of Marcus Montes
 
 - Jake Jordan
   - Assistant Lighting Designer
+  
+  
 
 
 
